@@ -1,10 +1,10 @@
 package se.iths.felix.gitexercise.model;
 
-public class movie {
+public class Movie {
     String title;
     int releaseYear;
 
-    public movie(String title, int releaseYear) {
+    public Movie(String title, int releaseYear) {
         this.title = title;
         this.releaseYear = releaseYear;
     }
